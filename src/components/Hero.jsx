@@ -5,11 +5,10 @@ import styled from "styled-components";
 // Icons
 import { Icon } from "@iconify/react";
 // Media
-import Logo from "../images/logo.svg";
 import { Light, Dark } from "../data";
 // Components
 import { Col, Container, Row } from "react-bootstrap";
-import { Spin } from "./globalStyledComponents";
+
 import SocialLinks from "./SocialLinks";
 
 const StyledHero = styled.header`
@@ -53,12 +52,6 @@ const StyledHero = styled.header`
     height: 10rem;
   }
 
-  @media (prefers-reduced-motion: no-preference) {
-    .hero-img {
-      animation: ${Spin} infinite 20s linear;
-    }
-  }
-
   @media screen and (min-width: 1180px) {
     &::before {
       background: ${({ theme }) =>
@@ -94,11 +87,7 @@ export default function Hero() {
             </div>
           </Col>
           <Col className="d-none d-md-block">
-            <img
-              src={Logo}
-              alt="React Logo"
-              className="w-75 mx-auto hero-img"
-            />
+            
           </Col>
         </Row>
         <Row className="align-items-end down-container">

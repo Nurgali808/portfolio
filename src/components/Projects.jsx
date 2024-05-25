@@ -96,7 +96,7 @@ export default function Projects() {
                         theme === "light" ? "outline-dark" : "outline-light"
                       }
                     >
-                      All <Icon icon="icomoon-free:github" /> Projects
+                      Все <Icon icon="icomoon-free:github" /> Проекты
                     </Button>
                   </Link>
                 </Container>

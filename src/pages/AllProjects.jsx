@@ -129,7 +129,7 @@ export default function AllProjects() {
             <Container className="d-flex">
               <Title>
                 <h2>
-                  All <Icon icon="mdi:github" /> Projects
+                  Все <Icon icon="mdi:github" /> Проекты
                 </h2>
                 <div className="underline"></div>
               </Title>

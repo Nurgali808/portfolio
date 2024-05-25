@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/your-app/static/css/main.63ffa884.css",
+    "main.js": "/your-app/static/js/main.3098cbb6.js",
+    "static/media/rere.jpeg": "/your-app/static/media/rere.4b45c34e921440b5cb27.jpeg",
+    "static/media/asas.jpeg": "/your-app/static/media/asas.e5fa25eff56ea085b7ef.jpeg",
+    "service-worker.js": "/your-app/service-worker.js",
+    "static/media/GH.svg": "/your-app/static/media/GH.b9e9a9aa6f05e9dfe5dcb8991bda3e4d.svg",
+    "static/media/defaultNavLogo.svg": "/your-app/static/media/defaultNavLogo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/logo.svg": "/your-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/your-app/index.html",
+    "main.63ffa884.css.map": "/your-app/static/css/main.63ffa884.css.map",
+    "main.3098cbb6.js.map": "/your-app/static/js/main.3098cbb6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63ffa884.css",
+    "static/js/main.3098cbb6.js"
+  ]
+}

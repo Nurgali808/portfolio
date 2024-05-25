@@ -27,8 +27,8 @@ const darkMode = window.matchMedia("(prefers-color-scheme: dark)").matches;
 const themes = {
   light: {
     name: "light",
-    color: "#45413C",
-    background: "#F5F2E8",
+    color: "#00000",
+    background: "#ccc6c6  ",
   },
   dark: {
     name: "dark",
